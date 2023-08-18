@@ -17,5 +17,5 @@ chmod +x mt5fedora.sh ; ./mt5fedora.sh
 
 ![wizzard_screenshot](https://github.com/fortyfree93/mt5fedora/blob/efb752659aac76631edee35e5685253d6e3c7bca/res/Screenshot%20from%202023-08-18%2011-40-15.png)
 
-- 
+- you are ready to go :rocket: :money_with_wings:
 
