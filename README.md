@@ -8,8 +8,7 @@ Since MetaQuotes Ltd is only offering scripts for Ubuntu & Debian, feel free to 
 Currently only Version **37** & **38** are supported. Additional version can be easily added folling the pattern in the code.
 
 # Installation
-- Download mt5fedora.sh
-- execute command below
+- execute the command **or** download manually and execute them step by step
 ```sh
 wget https://github.com/fortyfree93/mt5fedora/blob/8481d89179a8a1eb61e8e750e09f9c00566eaf62/mt5fedora.sh ;chmod +x mt5fedora.sh ; ./mt5fedora.sh
 ```
